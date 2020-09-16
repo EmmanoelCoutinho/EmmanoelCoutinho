@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Emmanoel Coutinho!</h1>
-<h3 align="center">I'm a Brazilian Front-end Developer, I love learning new skills and new languages, I always look for new challenges that enable me to learn more, to be a better person and professional.</h3>
+<h3 align="center">I'm a Brazilian Front-end Developer, I love learning new skills and new languages, I always look for new challenges that enable me to learn more to be a better person and professional.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EmmanoelCoutinho-github-username&color=yellow" alt="EmmanoelCoutinho" /> </p>
 
 - 🔭 I’m currently working on in the  [Donwtown Cifras](https://github.com/EmmanoelCoutinho/Site-Cifras)
