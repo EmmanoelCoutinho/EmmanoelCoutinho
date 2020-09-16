@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Emmanoel Coutinho!</h1>
 <h3 align="center">I'm a Brazilian Front-end Developer, I love learning new skills and new languages, I always look for new challenges that enable me to learn more, to be a better person and professional.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EmmanoelCoutinho-github-username&color=lightgray" alt="EmmanoelCoutinho" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EmmanoelCoutinho-github-username&color=purple" alt="EmmanoelCoutinho" /> </p>
 
 - 🔭 I’m currently working on in the  [Donwtown Cifras](https://github.com/EmmanoelCoutinho/Site-Cifras)
 
@@ -13,7 +13,8 @@
 - 📫 How to reach me **emmanoelcesar967@gmail.com**
 
 <p align="center">
- <code><img height="40" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
+<code><img height="40" src="<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>"></code>
+<code><img height="40" src="<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
