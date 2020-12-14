@@ -2,11 +2,9 @@
 <h3 align="center">I'm a Brazilian Front-end Developer, I love learning new skills and new languages, I always look for new challenges that enable me to learn more to be a better person and professional.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EmmanoelCoutinho-github-username&color=yellow" alt="EmmanoelCoutinho" /> </p>
 
-- 🔭 I’m currently working on in the  [Donwtown Cifras](https://github.com/EmmanoelCoutinho/Site-Cifras)
+- 🔭 I’m currently working on in the  [Profile Github Selector](https://github.com/EmmanoelCoutinho/profile-picker)
 
 - 🌱 I’m currently learning **ReactJS, JavaScript, NodeJS**
-
-- 🤔 I’m looking for help with **VueJS,Angular**
 
 - 💬 Ask me about **Front-end**
 
@@ -20,7 +18,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
