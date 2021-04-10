@@ -22,7 +22,7 @@ const Me = () => {
     <AboutMe>
       I am a JavaScript developer who is trying to improve more and more, I really love web development!
     </AboutMe>
-    <Hobbies>I love play acoustic guitar and play League of legends</Hobbies> //my current nick is Black Samurai, add me ^^
+    <Hobbies>I love play acoustic guitar and play League of legends</Hobbies> //my current nick is Dev FrontEnd, add me ^^
     <Contacts>
       <li> {contactList.phoneNumber} </li>
       <li> {contactList.professionalEmail} </li>
