@@ -1,36 +1,20 @@
-```javascript
-import {Container, Name, Age, Skills, AboutMe, Hobbies, Contacts} from './styles';
+# Hi, I'm Emmanoel Coutinho
 
-const Me = () => {
-  const contactList = {
-   phoneNumber: "(91)984601156",
-   professionalEmail: "coutinho.codes@gmail.com",
-   mainEmail: "emmanoelcesar967@gmail.com"
-  };
+<img src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif?mtime=20200914144127&focal=none.gif" width="500" height="300" />
 
-  return(
-  <Container>
-    <Name> EmmanoelCoutinho </Name>
-    <Age> 20 </Age>
-    <Skills>
-      <li> Javascript </li>
-      <li> Typescript </li>
-      <li> Html </li>
-      <li> Css </li>
-      <li> a little Node.js </li>
-    </Skills>
-    <AboutMe>
-      I am a JavaScript developer who is trying to improve more and more, I really love web development!
-    </AboutMe>
-    <Hobbies>I love play acoustic guitar and play League of legends</Hobbies> //my current nick is Dev FrontEnd, add me ^^
-    <Contacts>
-      <li> {contactList.phoneNumber} </li>
-      <li> {contactList.professionalEmail} </li>
-      <li> {contactList.mainEmail} </li>
-    </Contacts>
-  </Container>
-  );
-}
+<p align="center">
+ <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+ <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+ <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+ <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+ <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+ <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 
-export default Me;
-```
+<center>
+  <table>
+    <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=EmmanoelCoutinho&show_icons=true&theme=material-palenight" alt="EmmanoelCoutinho" /></td>
+<td><img width="370px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanoelCoutinho&hide=html&layout=compact&theme=material-palenight" /></td>
+</tr>   
+  </table>
+</center>
