@@ -1,19 +1,21 @@
 # Hi, I'm Emmanoel Coutinho, Brazilan FullStack Dev!
 
-<p align="center">
-<img src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif?mtime=20200914144127&focal=none.gif" width="1080" height="300" />
+<img src="https://tenor.com/view/yasuo-gif-20239256.gif" width="500" height="300" />
 
-<p align="center">
+### I like play some games and play acoustic guitar in my free time!
+#### If you wanna talk with me send me a massage +55 91984601156 or email coutinho.codes@gamil.com
+#### or send a message on league of legends if you wanna 😊! My current nick is Dev frontend (Br server of course!)
+
 <center>
   <table>
     <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=EmmanoelCoutinho&show_icons=true&theme=material-palenight" alt="EmmanoelCoutinho" /></td>
-<td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanoelCoutinho&hide=html&layout=compact&theme=material-palenight" /></td>
+      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=EmmanoelCoutinho&show_icons=true&theme=material-palenight" alt="EmmanoelCoutinho" /></td>
+<td><img width="370px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanoelCoutinho&hide=html&layout=compact&theme=material-palenight" /></td>
 </tr>   
   </table>
 </center>
 
-<p align="center">
+<p align="left">
  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
