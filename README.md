@@ -1,13 +1,14 @@
 # Hi, I'm Emmanoel Coutinho, Brazilan FullStack Dev!
 
 <p align="center">
-<img src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif?mtime=20200914144127&focal=none.gif" width="800" height="300" />
+<img src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif?mtime=20200914144127&focal=none.gif" width="1080" height="300" />
 
+<p align="center">
 <center>
   <table>
     <tr>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=EmmanoelCoutinho&show_icons=true&theme=material-palenight" alt="EmmanoelCoutinho" /></td>
-<td><img width="30px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanoelCoutinho&hide=html&layout=compact&theme=material-palenight" /></td>
+<td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanoelCoutinho&hide=html&layout=compact&theme=material-palenight" /></td>
 </tr>   
   </table>
 </center>
