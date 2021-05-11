@@ -6,7 +6,7 @@
 <div style="overflow: hidden">
   <table>
     <tr>
-      <td><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=EmmanoelCoutinho&show_icons=true&theme=material-palenight" alt="EmmanoelCoutinho" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=EmmanoelCoutinho&show_icons=true&theme=material-palenight" alt="EmmanoelCoutinho" /></td>
 <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanoelCoutinho&hide=html&layout=compact&theme=material-palenight" /></td>
 </tr>   
   </table>
