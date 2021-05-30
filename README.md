@@ -1,10 +1,9 @@
-# Hi, I'm Emmanoel Coutinho, Brazilan FullStack Dev!
+# Hi, I'm Emmanoel Coutinho!
 
 <img src="https://tenor.com/view/yasuo-gif-20239256.gif" width="500" height="300" />
 
 ### I like play some games and play acoustic guitar in my free time!
 #### If you wanna talk with me send me a massage +55 91984601156 or email coutinho.codes@gamil.com
-#### or send a message on league of legends if you wanna 😊! My current nick is Dev frontend (Br server of course!)
 
 <center>
   <table>
