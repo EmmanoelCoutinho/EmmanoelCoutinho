@@ -1,24 +1,13 @@
-# Hi, I'm Emmanoel Coutinho!
+# Oba, Eu sou Emmanoel Coutinho!
 
-<img src="https://tenor.com/view/yasuo-gif-20239256.gif" width="500" height="300" />
+<img src="https://tenor.com/pt-BR/view/hello-anxiety-inside-out-2-hi-inside-out-gif-11329349714411357445" width="500" height="300" />
 
-### I like play some games and play acoustic guitar in my free time!
-#### If you wanna talk with me send me a massage +55 91984601156 or email coutinho.codes@gamil.com
+# Sobre Mim 👋
 
-<center>
-  <table>
-    <tr>
-      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=EmmanoelCoutinho&show_icons=true&theme=material-palenight" alt="EmmanoelCoutinho" /></td>
-<td><img width="370px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanoelCoutinho&hide=html&layout=compact&theme=material-palenight" /></td>
-</tr>   
-  </table>
-</center>
+Sou desenvolvedor com experiência em **JavaScript** e **TypeScript**, apaixonado por criar soluções tecnológicas inovadoras. Trabalho no desenvolvimento de **sites** e **aplicativos**, com um forte foco em **Frontend**, onde possuo conhecimentos sólidos. 
 
-<p align="left">
- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+Tenho um grande interesse em resolver problemas desafiadores e gosto de enfrentar situações que demandem criatividade e lógica. Além disso, também possuo experiência em **Backend**, utilizando **Node.js** e **C#**, o que me permite atuar em diferentes partes do desenvolvimento de sistemas.
+
+Estou sempre buscando aprender mais e colaborar em projetos que façam a diferença! 🚀
+  
+<code><p align="left"> <img src="https://komarev.com/ghpvc/?username=EmmanoelCoutinho" alt="EmmanoelCoutinho" /> </p></code> 
