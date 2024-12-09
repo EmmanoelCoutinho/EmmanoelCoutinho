@@ -4,11 +4,6 @@ Tenho um grande interesse em resolver problemas desafiadores e gosto de enfrenta
 
 Estou sempre buscando aprender mais e colaborar em projetos que façam a diferença! 🚀
 
-<center>
-  <table>
-    <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=EmmanoelCoutinho&show_icons=true&theme=material-palenight" alt="EmmanoelCoutinho" /></td>
-      <td><img width="370px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanoelCoutinho&hide=html&layout=compact&theme=material-palenight" /></td>
-    </tr>   
-  </table>
-</center>
+<a href="https://www.linkedin.com/in/emmanoelcoutinhodev/"><img src="./images/linkedin.png" width="16"/></a> [LinkedIn](https://www.linkedin.com/in/emmanoelcoutinhodev/)
+
+<a href="mailto:coutinho.codes@gmail.com"><img src="./images/email.png" width="16"/></a> [Email](mailto:coutinho.codes@gmail.com)
